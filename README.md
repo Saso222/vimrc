@@ -1,4 +1,4 @@
-===Personal vim configuration ===
+## Personal vim configuration ##
 - Plug as vim plugin manager
 - Nerdtree
 - FuGITitve
